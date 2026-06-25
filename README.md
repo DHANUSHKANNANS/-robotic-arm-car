@@ -2,7 +2,6 @@
 
 A 4-wheel Arduino-based robotic car with a 4-DOF servo arm, controlled wirelessly from a smartphone via Bluetooth for pick-and-place operations.
 
-![Robot](docs/robot.jpg)
 
 ---
 
